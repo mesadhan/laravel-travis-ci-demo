@@ -6,7 +6,21 @@
 
 ## About This Repository
 
-The purpose of this repository is to have a ready-to-develop Laravel installation with documented workflow of a new project start. **One size does not fit all**
+Before we dive deeper, you should know:  **One Size Doesn’t Fit All**
+
+The purpose of this repository is to have a ready-to-develop Laravel installation with documented workflow of a new project start.
+
+Included in the repository is:
+
+- Initial Laravel framework
+- Debugbar package
+- Ide-Helper package
+- Travis.yml configuration file
+- All configurations to run the default phpunit and Laravel dusk tests
+
+Missing in the repository is:
+
+- Travis setup with MySql and tests with MySql usage examples
 
 ## Repository usage
 
