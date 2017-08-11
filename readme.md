@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://travis-ci.org/ModestasV/laravel-ci-demo"><img src="https://travis-ci.org/ModestasV/laravel-ci-demo.svg?branch=master" alt="Build Status"></a>
 </p>
 
 ## About This Repository
@@ -16,7 +16,7 @@ The purpose of this repository is to have a ready-to-develop Laravel installatio
 
 We will attempt to cover the most common issues that we encounter. If it is not listed here - feel free to make a pull-request with your issue solution!
 
-### Error `Facebook\WebDriver\Exception\WebDriverCurlException: Curl error thrown for http POST to /session with params:` solving:
+###### Error `Facebook\WebDriver\Exception\WebDriverCurlException: Curl error thrown for http POST to /session with params:` solving:
 
 Open new terminal window, launch these commands:
 
