@@ -8,7 +8,7 @@
 
 The purpose of this repository is to have a ready-to-develop Laravel installation with documented workflow of a new project start. **One size does not fit all**
 
-## Repo usage
+## Repository usage
 
 1. Download/Fork this repository
 2. Create new repository in GitHub and push your code there
@@ -53,4 +53,4 @@ We have not modified/changed the core/code more than adding few packages that we
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The Laravel framework and this package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
