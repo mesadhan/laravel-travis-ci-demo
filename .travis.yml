@@ -12,7 +12,7 @@ before_install:
   - mysql -e 'CREATE DATABASE homestead_test;'
 
 before_script:
-  - cp .env.testing .env.example
+  - cp .env.testing .env
   - composer self-update
   - composer install --no-interaction
   - php artisan key:generate
