@@ -8,9 +8,15 @@
 
 The purpose of this repository is to have a ready-to-develop Laravel installation with documented workflow of a new project start. **One size does not fit all**
 
-## Workflow
+## Repo usage
 
-@todo
+1. Download/Fork this repository
+2. Create new repository in GitHub and push your code there
+3. Log in to the [Travis-CI](https://travis-ci.com/)
+4. Enable your repository for deployments
+5. Make a pull-request and watch your code build
+
+_Please note that you might need to adjust the .travis.yml file or the configuration for setup as needs vary. This is just a basic and initial version_
 
 ## Troubleshooting
 
