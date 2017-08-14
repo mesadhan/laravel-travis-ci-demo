@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/ModestasV/laravel-ci-demo"><img src="https://travis-ci.org/ModestasV/laravel-ci-demo.svg?branch=master" alt="Build Status"></a>
+<a href="https://travis-ci.org/ModestasV/laravel-travis-ci-demo"><img src="https://travis-ci.org/ModestasV/laravel-travis-ci-demo.svg?branch=master" alt="Build Status"></a>
 </p>
 
 ## About This Repository
